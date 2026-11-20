@@ -1,0 +1,7 @@
+# Local OCR + document processing stack (CPU only, no cloud OCR)
+pymupdf>=1.24.0          # PDF page rendering to images
+pytesseract>=0.3.10      # Python wrapper for local Tesseract OCR
+opencv-python-headless>=4.8.0  # image preprocessing (denoise, CLAHE)
+numpy>=1.24.0            # array ops used by OpenCV
+Pillow>=10.0.0           # image I/O helpers
+openpyxl>=3.1.0          # Excel workbook output

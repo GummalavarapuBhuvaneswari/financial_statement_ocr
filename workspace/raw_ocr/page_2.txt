@@ -1,0 +1,57 @@
+< trore
+No. 31 March 2025 31 March 2024
+Deferred tax liabilities (net) 29 16,527.06 13,066.53
+Other non-current liabilities 30 245.40 83.27
+Total non-current liabilities 1,64,575.65 1,62,497.02
+Current liabilities
+Financial liabilities
+Borrowings 31 40,878.01 39,059.55
+Lease liabilities 32 96.92 162.87
+Trade payables 33
+Total outstanding dues of micro and small enterprises 754.92 538.52
+Total outstanding dues of creditors other than micro and small 8,811.77 8,936.14
+enterprises
+Other financial liabilities a4 21,251.94 21,970.54
+Other current liabilities 35. 1,255.36 1,260.33
+Provisions 36 6,412.48 6,376.21
+Total current liabilities 79,461.40 78,304.16
+Deferred revenue a7 2,240.06 2,328.01
+Regulatory deferral account credit balances 38 - 280.32
+TOTAL EQUITY AND LIABILITIES 4,07,917.66 ——-3,93,294.53
+2 Crore
+Na. ended ended
+31 March 2025 31 March 2024
+Income
+Revenue from operations 39 1,70,037.37 1,62,008.95
+Other income 40 4,376.12 3,698.32
+Total income 1,74,413.49 —‘1,65,707.27
+Expenses
+Fuel cost 41 97,060.24 94,037.49
+Electricity purchased for trading _ 3,767.70 3,881.66
+Employee benefits expense 42 5,724.67 5,670.10
+Finance costs 43 11,057.04 10,250.82
+Depreciation, amortization and impairment expenses _ 44 15,055.84 13,943.15
+Other expenses 45 18,111.60 15,213.43
+Total expenses 1,50,777.09 1,42,996.65.
+Profit before exceptional items, tax and regulatory deferral account 23,636.40 22,710.62
+balances
+Exceptional items 49 = 834.55.
+Profit before tax and regulatory deferral account balances 23,636.40 23,545.17
+Tax expense 53
+Current tax
+Current year 4,102.83. 4,094.36
+Earlier years (445.02) (152.63)
+Deferred tax 3,641.88 2,658.30
+Total tax expense 7,299.69 6,600.03
+Profit before regulatory deferral account balances 16,336.71 16,945.14
+Net movement in regulatory deferral account balances (met of tax) 68 3,312.70 1,134.25
+Profit for the year 19,649.41 18,079.39
+Other comprehensive income
+ltems that will not be reclassified to profit or loss
+- Net actuarial gains/(losses) on defined benefit plans (194.73) (128.00)
+- Net gains, (losses) on fair value of equity instruments (27.60) 120.90
+(222.33) (7.10)
+Income tax on items that will not be reclassified to profit or loss 53
+- Net actuarial gains/(losses) on defined benefit plans 34.02 22.36
+Other comprehensive income for the year, net of tax (188.31) 15.26
+Total comprehensive income for the year 19,461.10 18,094.65

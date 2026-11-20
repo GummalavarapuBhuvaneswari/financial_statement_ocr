@@ -1,0 +1,45 @@
+STANDALONE BALANCE SHEET AS AT 31 MARCH 2025
+? Crore
+No. 31 March 2025 31 March 2024
+ASSETS
+Non-current assets
+Property, plant and equipment 2 2,10,927.53 2,11,323.43
+Capital work-in-progress 3 52,326.75 47,153.81
+Investment property 4 858.60 859.90
+Intangible assets 5 421.38 427.69
+Intangible assets under development 6 3.33 3.19
+Financial assets
+Equity investments in subsidiary and joint venture companies 7 34,431.08 32,405.95
+Other investments & 624,38 701.98
+Loans ] 984.26 800.66
+Trade receivables 10 3.22 1,168.10
+Other financial assets 11 770.47 627.98
+Other non-current assets 12 13,299.27 11,938.70
+Total non-current assets 3,14,650.27 3,07,411.39
+Current assets
+Inventories 13 17,847.86 17,369.83
+Financial assets
+Investments 14 50.00 50.00
+Trade receivables 15 28,734.54 27,347.52
+Cash and cash equivalents 16 2.15 197.16
+Bank balances other than cash and cash equivalents 17 4,776.42 4,403.34
+Loans 18 348.80 415.85
+Other financial assets 19 16,019.53 11,664.94
+Other current assets 20 8,367.67 10,907.50
+Total current assets 76,146.97 72,356.14
+Assets held for sale 21 159.82 117.19
+Regulatory deferral account debit balances 22 16,960.60 13,409.81
+TOTAL ASSETS 4,07,917.66 3,93,294.53
+EQUITY AND LIABILITIES
+Equity
+Equity share capital 23 9,696.67 9,696.67
+Other equity 24 1,51,943.88 1,40,188.35
+Total equity 1,61,640.55 149,885.02
+Liabilities
+Non-current liabilities
+Financial liabilities
+Borrowings 25 1,44,365.56 146,159.07
+Lease liabilities 26 390.32 824.52
+Other financial liabilities 27 609.62 465.60
+Provisions 28 1,937.69 1,898.03
+344 | INTEGRATED ANNUAL REPORT - 2024-25

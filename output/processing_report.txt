@@ -1,0 +1,34 @@
+Processing Report — Scanned Financial Statement OCR
+============================================================
+source_document: Scanned Financial Statements.pdf
+pages_in_document: 2
+pages_processed_successfully: 2
+pages_failed: []
+line_items_extracted: 74
+line_items_requiring_review: 2
+processing_time_seconds: 33.24
+ocr_engine: Tesseract OCR (local, CPU)
+unit: ₹ Crore
+dpi: 300
+
+Validation summary
+------------------------------------------------------------
+errors   : 0
+warnings : 2
+info     : 8
+
+[warning] extraction_status: Flagged for review: Total income (Low OCR confidence (51.8))
+[warning] extraction_status: Flagged for review: (subtotal / amount-only row) (No particulars text on this OCR line — labelled as amount-only subtotal)
+[info] arithmetic: TOTAL ASSETS reconciles on fy_2024_25 (407917.66)
+[info] arithmetic: TOTAL EQUITY AND LIABILITIES reconciles on fy_2024_25 (407917.66)
+[info] arithmetic: TOTAL ASSETS reconciles on fy_2023_24 (393294.53)
+[info] arithmetic: TOTAL EQUITY AND LIABILITIES reconciles on fy_2023_24 (393294.53)
+[info] balance_sheet_identity: Assets equal Equity & Liabilities for FY 2024-25 (407917.66)
+[info] balance_sheet_identity: Assets equal Equity & Liabilities for FY 2023-24 (393294.53)
+[info] arithmetic: Income - Expenses reconciles to profit-before-exceptional on fy_2024_25
+[info] arithmetic: Income - Expenses reconciles to profit-before-exceptional on fy_2023_24
+
+Line items requiring review
+------------------------------------------------------------
+p2: Total income :: Low OCR confidence (51.8)
+p2: (subtotal / amount-only row) :: No particulars text on this OCR line — labelled as amount-only subtotal
