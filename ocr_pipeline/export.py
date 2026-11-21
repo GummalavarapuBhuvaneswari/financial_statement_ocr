@@ -39,7 +39,7 @@ def write_excel(records: list[LineItem], path: Path, validation_summary: dict | 
     ws.title = "Financial Line Items"
 
     header_fill = PatternFill("solid", fgColor="1F4E79")
-    header_font = Font(color="FFFFFF", bold=True)
+    header_font = Font(color="000000", bold=True)
     review_fill = PatternFill("solid", fgColor="FFF2CC")
     thin = Border(
         left=Side(style="thin", color="D9D9D9"),
